@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 System Administration Projects:</h2>
 
-- <b>Windows Active Directory Project</b>
+- <b>Inventory Project</b>
   - [name](link)
 
 
