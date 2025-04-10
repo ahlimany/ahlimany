@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 System Administration Projects:</h2>
 
-- <b>Inventory Project</b>
-  - [name](https://github.com/ahlimany/inventory-project)
-
+- <b>[Inventory Project](https://github.com/ahlimany/inventory-project)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
