@@ -10,4 +10,5 @@
 [<img align="left" alt="Ahliman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [mail]: ahliman573@gmail.com
+<br>
 [linkedin]: https://linkedin.com/in/ahliman-abbasov
