@@ -11,10 +11,3 @@
 
 [mail]: ahliman573@gmail.com
 [linkedin]: https://linkedin.com/in/ahliman-abbasov
-
-- 🔭 I’m currently working on My Honeypot Project
-- 🌱 I’m currently learning Blue Team, Microsoft AD, and CCNA level networking
-- 👯 I’m looking to collaborate on Sys Admin, Blue Team cybersecurity projects
-- 🤔 I’m looking for help with Menthorship 
-- 💬 Ask me about my journey
-- 📫 How to reach me: ahliman573@gmail.com
